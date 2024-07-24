@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Sora Harada a.k.a saku
 
-<!--
-**Saku052/Saku052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my profile! I'm Sora from Austrailia just in my final year on statistics major. 
 
-Here are some ideas to get you started:
+## Tools & Skills
+[![My Skills](https://skillicons.dev/icons?i=discord,notion,unity,git,github,mysql,sqlite,vscode,swift,&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<div align="center">
+  <div style="display: flex;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saku052&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Saku052 GitHub stats" />
+    
+  <img width="401" src="https://streak-stats.demolab.com/?user=Saku052&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
+  </div>
+</div>
