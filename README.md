@@ -9,7 +9,7 @@ Thank you for visiting my profile! I'm Sora from Austrailia just in my final yea
 
 <div align="center">
   <div style="display: flex;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saku052&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Saku052 GitHub stats" />
+    
     
   <img width="401" src="https://streak-stats.demolab.com/?user=Saku052&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
   </div>
