@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sora Harada a.k.a saku
 
-Thank you for visiting my profile! I'm Sora from Austrailia just in my final year on statistics major. 
+Thank you for visiting my profile! I'm Sora from Austrailia just in my final year on statistics major. I have passion towards computer science but I also like to play around with data in kaggle!
 
 ## Tools & Skills
 [![My Skills](https://skillicons.dev/icons?i=discord,notion,unity,git,github,mysql,sqlite,vscode,swift,&theme=light)](https://skillicons.dev)
